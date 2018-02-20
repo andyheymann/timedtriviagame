@@ -1,0 +1,91 @@
+body {
+   background: url("../assets/background.jpg") no-repeat center top fixed;
+   background-color: #cccccc;
+   background-size: cover;
+}
+
+button {
+	width: 200px;
+	height: 50px;
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+
+.testbutton {
+	color: white;
+	border-radius: 10px;
+	padding: 10px, 20px, 10px, 20px;
+}
+
+.answers {
+	color: red;
+}
+
+.hq {
+	margin: auto;
+	text-align: center;
+}
+
+.title {
+	font-size: 44px;
+	font-family: helvetica;
+	line-height: 38px;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+	letter-spacing: 2px;
+	text-shadow: 1px 1px 2px #000000;
+}
+
+#test {
+	text-align: center;
+	margin: auto;
+	color: white;
+	font-family: helvetica;
+	font-size: 16pt;
+	font-weight: 300;
+}
+
+#test_status {
+	text-align: center;
+	font-size: 16pt;
+	font-weight: 200;
+	margin: auto;
+	color: #ccf2ff;
+	font-family: helvetica;
+}
+
+.subtitle {
+	font-size: 20px;
+	padding-top: 20px;
+	color: #ccf2ff;
+	font-family: helvetica;
+	text-align: center;
+	font-weight: 200;
+	letter-spacing: 3px;
+}
+
+.timertitle {
+	font-size: 18px;
+	color: white;
+	font-weight: 500;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.timer {
+	font-size: 60px;
+	color: red;
+	text-align: center;
+	margin-top: -20px;
+}
+
+.question {
+	color: white;
+	font-size: 22px;
+	font-weight: 500;
+	text-align: center;
+	margin-top: 20px;
+	font-weight: 300;
+}
